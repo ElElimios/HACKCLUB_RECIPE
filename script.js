@@ -2,7 +2,7 @@ const catContainer = document.getElementById('cat-rain');
 
 function createCat() {
     const cat = document.createElement('img');
-    cat.src = '../Media/cat.png';
+    cat.src = 'cat.png';
 
     cat.classList.add("cat");
 
