@@ -103,7 +103,7 @@ footer {
     width: 100vw;              
     margin-left: calc(-50vw + 50%); 
     height: 280px;             
-    background-image: url('../Media/BannerV1.jpg');
+    background-image: url('BannerV1.jpg');
     background-size: cover;
     background-position: center;
 
